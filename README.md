@@ -1,4 +1,4 @@
-# organizadordeturnos
+# Organizador de turnos
 Um organizador de turnos feito em conjunto com um colega (Henrique Borges) 
 
 
