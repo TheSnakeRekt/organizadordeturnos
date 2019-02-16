@@ -1,0 +1,10 @@
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\bin\Debug\Tabela de horarios.exe.config
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\bin\Debug\Tabela de horarios.exe
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\bin\Debug\Tabela de horarios.pdb
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\obj\Debug\Tabela de horarios.csprojAssemblyReference.cache
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\obj\Debug\Tabela_de_horarios.Form1.resources
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\obj\Debug\Tabela_de_horarios.Properties.Resources.resources
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\obj\Debug\Tabela de horarios.csproj.GenerateResource.cache
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\obj\Debug\Tabela de horarios.csproj.CoreCompileInputs.cache
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\obj\Debug\Tabela de horarios.exe
+C:\Users\malco\source\repos\Tabela de horarios\Tabela de horarios\obj\Debug\Tabela de horarios.pdb
